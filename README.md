@@ -22,11 +22,11 @@ O site Notícias Cidade apresenta uma interface simples e funcional, com diferen
 
 Além do portal de notícias, Santa Luzia do Vale conta com o Hotel Fazenda Cantinho da Paz, um local aconchegante para quem deseja relaxar e aproveitar a natureza.
 
-** 🌿  Sobre o Hotel **
+** 🌿  Sobre o Hotel 
 
 O Hotel Fazenda Cantinho da Paz oferece uma experiência única no interior de Minas Gerais. Localizado entre montanhas e rodeado por paisagens exuberantes, é ideal para quem busca tranquilidade, contato com a natureza e uma estadia acolhedora.
 
-** 🏨 Estrutura e Comodidades **
+** 🏨 Estrutura e Comodidades 
 
 * 🍽️ Gastronomia: Delícias da culinária mineira, com pratos típicos preparados com ingredientes frescos.
 
@@ -38,7 +38,7 @@ O Hotel Fazenda Cantinho da Paz oferece uma experiência única no interior de M
 
 Para saber mais, acesse o site do hotel e descubra tudo o que ele tem a oferecer!
 
-** 🔧 Como Executar o Projeto ** 
+** 🔧 Como Executar o Projeto 
 
 1. Clone este repositório:
 
@@ -48,7 +48,7 @@ git clone https://github.com/seu-usuario/santa-luzia-noticias.git
 
 3. Navegue pelo site e explore o conteúdo fictício!
 
-** 💡 Possíveis Melhorias **
+** 💡 Possíveis Melhorias
 
 * Adição de uma base de dados para armazenar notícias dinamicamente.
 
@@ -56,7 +56,7 @@ git clone https://github.com/seu-usuario/santa-luzia-noticias.git
 
 * Melhorias no design responsivo e acessibilidade.
 
-** 📚 Licença **
+** 📚 Licença 
 
 Este projeto foi criado para fins de entretenimento e não possui uma licença específica.
 
