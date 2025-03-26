@@ -22,7 +22,7 @@ O site Notícias Cidade apresenta uma interface simples e funcional, com diferen
 
 Além do portal de notícias, Santa Luzia do Vale conta com o Hotel Fazenda Cantinho da Paz, um local aconchegante para quem deseja relaxar e aproveitar a natureza.
 
-** 🌿  Sobre o Hotel 
+* 🌿  Sobre o Hotel *
 
 O Hotel Fazenda Cantinho da Paz oferece uma experiência única no interior de Minas Gerais. Localizado entre montanhas e rodeado por paisagens exuberantes, é ideal para quem busca tranquilidade, contato com a natureza e uma estadia acolhedora.
 
