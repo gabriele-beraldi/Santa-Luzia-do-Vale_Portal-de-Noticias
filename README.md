@@ -34,7 +34,7 @@ O Hotel Fazenda Cantinho da Paz oferece uma experiência única no interior de M
 
 * 🐴 Atividades: Trilhas, passeios a cavalo, pesca esportiva e vivência rural com ordenha de vacas e alimentação de animais.
 
-** 📌 Site do Hotel **
+**📌 Site do Hotel **
 
 Para saber mais, acesse o site do hotel e descubra tudo o que ele tem a oferecer!
 
@@ -42,7 +42,7 @@ Para saber mais, acesse o site do hotel e descubra tudo o que ele tem a oferecer
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/santa-luzia-noticias.git
+   git clone https://github.com/seu-usuario/santa-luzia-noticias.git
 
 2. Abra o arquivo index.html no navegador.
 
