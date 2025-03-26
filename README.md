@@ -1,47 +1,28 @@
-#📰 Santa Luzia do Vale - Portal de Notícias
+📰 ##Santa Luzia do Vale - Portal de Notícias
 
 Bem-vindo ao repositório do site fictício Notícias Cidade, um portal de informações sobre a cidade fictícia de Santa Luzia do Vale. Este projeto foi desenvolvido para complementar a narrativa de um RPG, servindo como um meio de divulgação de acontecimentos dentro do jogo.
 
-🌐 Sobre o Projeto
+🌐 ## Sobre o Projeto
 
 O site Notícias Cidade apresenta uma interface simples e funcional, com diferentes seções que simulam um jornal online. Ele conta com:
 
-✨ Destaques: Notícias importantes e previsões do tempo.
+- ✨ Destaques: Notícias importantes e previsões do tempo.
 
-🏠 Cidade: Informativos sobre eventos e ocorrências locais.
+- 🏠 Cidade: Informativos sobre eventos e ocorrências locais.
 
-🎤 Entrevistas: Conversas com personagens relevantes do RPG.
+- 🎤 Entrevistas: Conversas com personagens relevantes do RPG.
 
-🎭 Entretenimento: Matérias sobre cultura e lazer.
+- 🎭 Entretenimento: Matérias sobre cultura e lazer.
 
-📝 Colunistas: Artigos de opinião e colunas especiais.
+- 📝 Colunistas: Artigos de opinião e colunas especiais.
 
-📸 Fotos: Galeria com imagens da cidade fictícia.
+- 📸 Fotos: Galeria com imagens da cidade fictícia.
 
-📝 Estrutura do Projeto
-
-O site é composto pelos seguintes arquivos e diretórios:
-
-/
-├── index.html                # Página inicial
-├── cidade.html               # Seção sobre a cidade
-├── entrevistas.html          # Seção de entrevistas
-├── fotos.html                # Seção de fotos
-├── assets/
-│   ├── css/
-│   │   ├── style.css         # Estilos do site
-│   ├── imagens/              # Logos e imagens do site
-├── pages/
-│   ├── noticia-tempo.html    # Exemplo de notícia sobre clima
-│   ├── noticia-doceria.html  # Exemplo de notícia local
-│   ├── noticia-igreja.html   # Notícia sobre evento religioso
-│   ├── entrevista-fazendeiro.html # Entrevista com personagem
-
-🏡 Hotel Fazenda Cantinho da Paz
+## 🏡 Hotel Fazenda Cantinho da Paz
 
 Além do portal de notícias, Santa Luzia do Vale conta com o Hotel Fazenda Cantinho da Paz, um local aconchegante para quem deseja relaxar e aproveitar a natureza.
 
-🌿 Sobre o Hotel
+🌿 ** Sobre o Hotel **
 
 O Hotel Fazenda Cantinho da Paz oferece uma experiência única no interior de Minas Gerais. Localizado entre montanhas e rodeado por paisagens exuberantes, é ideal para quem busca tranquilidade, contato com a natureza e uma estadia acolhedora.
 
